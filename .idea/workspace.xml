@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/api/views.py" line="83" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d233504-6f1c-482a-b62e-29debed06425" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bai_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/Bai_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/Bai_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/Bai_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/Book2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/NguyenVanNhatQuang_python1_msita_1901.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/adjacentElementsProduct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/bai_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/checkPalindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/copyconfig.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/fileProcessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/findWord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/news.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/printFibonaci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/readConfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/shapeArea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/et_xmlfile-1.0.1-py3.6.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/et_xmlfile-1.0.1-py3.6.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/et_xmlfile-1.0.1-py3.6.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/et_xmlfile-1.0.1-py3.6.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/et_xmlfile-1.0.1-py3.6.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/et_xmlfile/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/et_xmlfile/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/et_xmlfile/tests/common_imports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/et_xmlfile/tests/helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/et_xmlfile/tests/test_incremental_xmlfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/et_xmlfile/xmlfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/jdcal-1.4.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/jdcal-1.4.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/jdcal-1.4.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/jdcal-1.4.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/jdcal-1.4.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/jdcal-1.4.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/jdcal-1.4.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/jdcal-1.4.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/jdcal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl-2.6.1-py3.6.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl-2.6.1-py3.6.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl-2.6.1-py3.6.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl-2.6.1-py3.6.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl-2.6.1-py3.6.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl-2.6.1-py3.6.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/_constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/cell/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/cell/_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/cell/cell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/cell/read_only.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/cell/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/_3d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/area_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/axis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/bar_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/bubble_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/chartspace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/data_source.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/descriptors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/error_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/layout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/legend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/line_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/marker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/picture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/pie_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/plotarea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/print_settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/radar_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/reference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/scatter_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/series_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/stock_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/surface_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/trendline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chart/updown_bars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chartsheet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chartsheet/chartsheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chartsheet/custom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chartsheet/properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chartsheet/protection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chartsheet/publish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chartsheet/relation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/chartsheet/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/comments/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/comments/author.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/comments/comment_sheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/comments/comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/comments/shape_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/compat/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/compat/abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/compat/accumulate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/compat/numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/compat/singleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/compat/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/descriptors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/descriptors/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/descriptors/excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/descriptors/namespace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/descriptors/nested.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/descriptors/sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/descriptors/serialisable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/descriptors/slots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/connector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/drawing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/effect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/fill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/geometry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/graphic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/picture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/relation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/spreadsheet_drawing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/drawing/xdr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/formatting/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/formatting/formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/formatting/rule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/formula/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/formula/tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/formula/translate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/packaging/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/packaging/extended.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/packaging/interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/packaging/manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/packaging/relationship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/packaging/workbook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/pivot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/pivot/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/pivot/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/pivot/record.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/pivot/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/reader/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/reader/drawings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/reader/excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/reader/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/reader/workbook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/alignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/borders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/builtins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/cell_style.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/differential.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/fills.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/fonts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/named_styles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/protection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/styleable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/stylesheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/styles/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/utils/bound_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/utils/cell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/utils/dataframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/utils/datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/utils/escape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/utils/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/utils/formulas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/utils/indexed_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/utils/inference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/utils/protection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/utils/units.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/child.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/defined_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/external_link/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/external_link/external.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/external_reference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/function_group.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/protection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/smart_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/workbook/workbook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/_read_only.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/_write_only.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/cell_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/cell_watch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/controls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/copier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/custom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/datavalidation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/dimensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/drawing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/header_footer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/hyperlink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/ole.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/pagebreak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/picture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/protection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/related.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/scenario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/smart_tag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/worksheet/worksheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/writer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/writer/excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/writer/theme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/xml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/xml/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/Lib/site-packages/openpyxl/xml/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/venv/pip-selfcheck.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcercisesDayOne/wsProcessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NguyenVanNhatQuang_python1_msita_1901.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/.idea/PyThon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/CodeSignal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/CodeSignal/allLongestStrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/CodeSignal/alternatingSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/CodeSignal/isLucky.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/CodeSignal/martixElementsSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/CodeSignal/sortByHeight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/not-zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/basecommand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/baseparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/build_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/cmdoptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/completion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/locations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/models/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/pep425tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/resolve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/deprecation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/filesystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/glibc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/hashes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/outdated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/packaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/setuptools_build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/temp_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/bazaar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/git.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/mercurial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/filewrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/big5freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/big5prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/chardistribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/charsetgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/charsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cli/chardetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cp949prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/escprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/eucjpprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euckrfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euckrprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euctwprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/gb2312freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/gb2312prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/hebrewprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/jisfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/jpcntx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langbulgarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langcyrillicmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langgreekmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langhebrewmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langhungarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langthaimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langturkishmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/latin1prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sjisprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/universaldetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/utf8prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/ansi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/ansitowin32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/initialise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/winterm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/tarfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_ihatexml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_inputstream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/datrie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/lint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/optionaltags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/sanitizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/whitespace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/html5parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/sax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/intranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/package_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/uts46data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/ipaddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/linklockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/mkdirlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/pidlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/sqlitelockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/symlinklockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/fallback.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pkg_resources/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/spinner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/_internal_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/retrying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/connectionpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/appengine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/socks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/filepost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/ordered_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/poolmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/selectors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/ssl_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/mklabels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/site-packages/setuptools.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Lib/tcl8.6/init.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_asyncio.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_bz2.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_ctypes.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_ctypes_test.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_decimal.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_distutils_findvs.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_elementtree.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_hashlib.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_lzma.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_msi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_multiprocessing.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_overlapped.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_socket.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_sqlite3.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_ssl.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_testbuffer.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_testcapi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_testconsole.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_testimportmultiple.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_testmultiphase.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/_tkinter.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/easy_install-3.6-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/easy_install-3.6.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/easy_install-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/easy_install.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/pip-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/pip3-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/pip3.6-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/pip3.6.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/pyexpat.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/python3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/python36.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/select.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/tcl86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/tk86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/unicodedata.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/Scripts/winsound.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/file_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/libs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/newLibs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/BdfFontFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/BlpImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/BmpImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/BufrStubImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ContainerIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/CurImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/DcxImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/DdsImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/EpsImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ExifTags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/FitsStubImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/FliImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/FontFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/FpxImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/FtexImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/GbrImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/GdImageFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/GifImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/GimpGradientFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/GimpPaletteFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/GribStubImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/Hdf5StubImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/IcnsImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/IcoImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/Image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageChops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageCms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageColor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageDraw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageDraw2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageEnhance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageFilter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageFont.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageGrab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageMath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageMode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageMorph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImagePalette.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImagePath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageQt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageShow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageStat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageTk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageTransform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImageWin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/ImtImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/IptcImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/Jpeg2KImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/JpegImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/JpegPresets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/McIdasImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/MicImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/MpegImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/MpoImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/MspImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/OleFileIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/PSDraw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/PaletteFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/PalmImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/PcdImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/PcfFontFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/PcxImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/PdfImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/PdfParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/PixarImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/PngImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/PpmImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/PsdImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/PyAccess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/SgiImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/SpiderImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/SunImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/TarIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/TgaImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/TiffImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/TiffTags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/WalImageFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/WebPImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/WmfImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/XVThumbImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/XbmImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/XpmImagePlugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/_binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/_imaging.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/_imagingcms.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/_imagingft.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/_imagingmath.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/_imagingmorph.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/_imagingtk.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/_tkinter_finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/_webp.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/PIL/features.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/Pillow-5.4.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/Pillow-5.4.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/Pillow-5.4.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/Pillow-5.4.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/Pillow-5.4.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/Pillow-5.4.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/Pillow-5.4.1.dist-info/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx-0.2.4-py3.6.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx-0.2.4-py3.6.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx-0.2.4-py3.6.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx-0.2.4-py3.6.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx-0.2.4-py3.6.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx-0.2.4-py3.6.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx-template/_rels/.rels" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx-template/docProps/thumbnail.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx-template/word/fontTable.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx-template/word/numbering.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx-template/word/settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx-template/word/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx-template/word/theme/theme1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/docx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml-4.3.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml-4.3.2.dist-info/LICENSES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml-4.3.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml-4.3.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml-4.3.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml-4.3.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/ElementInclude.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/_elementpath.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/_elementpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/builder.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/cssselect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/doctestcompare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/etree.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/etree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/etree_api.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/ElementSoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/_diffcommand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/_html5builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/_setmixin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/clean.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/clean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/defs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/diff.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/formfill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/html5parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/soupparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/html/usedoctest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/__init__.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/c14n.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/config.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/dtdvalid.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/etree_defs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/etreepublic.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/htmlparser.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libexslt/exslt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libexslt/exsltconfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libexslt/exsltexports.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libexslt/libexslt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/DOCBparser.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/HTMLparser.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/HTMLtree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/SAX.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/SAX2.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/c14n.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/catalog.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/chvalid.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/debugXML.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/dict.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/encoding.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/entities.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/globals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/hash.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/list.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/nanoftp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/nanohttp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/parser.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/parserInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/pattern.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/relaxng.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/schemasInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/schematron.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/threads.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/tree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/uri.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/valid.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xinclude.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xlink.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlIO.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlautomata.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlerror.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlexports.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlmemory.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlmodule.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlreader.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlregexp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlsave.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlschemas.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlschemastypes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlstring.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlunicode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlversion.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xmlwriter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xpath.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xpathInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxml/xpointer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/attributes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/documents.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/extensions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/extra.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/functions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/imports.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/keys.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/libxslt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/namespaces.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/numbersInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/preproc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/security.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/templates.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/transform.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/trio.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/triodef.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/variables.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/win32config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/xslt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/xsltInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/xsltconfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/xsltexports.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/xsltlocale.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/libxslt/xsltutils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/lxml-version.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/relaxng.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/schematron.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/tree.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/uri.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/xinclude.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/xmlerror.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/xmlparser.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/xmlschema.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/xpath.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/includes/xslt.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/isoschematron/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/isoschematron/resources/rng/iso-schematron.rng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/isoschematron/resources/xsl/RNG2Schtrn.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/isoschematron/resources/xsl/XSD2Schtrn.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_abstract_expand.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_dsdl_include.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_message.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_skeleton_for_xslt1.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_svrl_for_xslt1.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/lxml.etree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/lxml.etree_api.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/objectify.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/pyclasslookup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/sax.cp36-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/sax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/Lib/site-packages/lxml/usedoctest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5/venv/pip-selfcheck.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcercisesDayOne/.idea/ExcercisesDayOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExcercisesDayOne/.idea/ExcercisesDayOne.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcercisesDayOne/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExcercisesDayOne/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcercisesDayOne/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExcercisesDayOne/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../File/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5/.idea/day5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day5/.idea/day5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5/file_assistant.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day5/file_assistant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5/testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day5/testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5/using_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day5/using_module.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authentication_api/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="121" column="30" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="30" />
+              <folding>
+                <element signature="e#319#328#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-450">
+              <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="678">
+              <caret line="147" column="58" selection-start-line="147" selection-start-column="58" selection-end-line="147" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://8729a956-6ca0-4edc-b3e9-ed69d72a3550/schema/main/table/api_profile">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://8729a956-6ca0-4edc-b3e9-ed69d72a3550/schema/main/table/api_account">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="803">
+              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+              <folding>
+                <element signature="e#0#6#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>backend</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/authentication_api/urls.py" />
+        <option value="$PROJECT_DIR$/api/admin.py" />
+        <option value="$PROJECT_DIR$/api/validations.py" />
+        <option value="$PROJECT_DIR$/authentication_api/settings.py" />
+        <option value="$PROJECT_DIR$/api/models.py" />
+        <option value="$PROJECT_DIR$/api/urls.py" />
+        <option value="$PROJECT_DIR$/api/serializers.py" />
+        <option value="$PROJECT_DIR$/api/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="authentication_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="authentication_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="authentication_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="authentication_api" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="authentication_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="authentication_api" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\LearningPython\learnPython\authentication_api" />
+      <recent name="C:\LearningPython\learnPython\authentication_api\api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="authentication_api" type="Python.DjangoServer" factoryName="Django server">
+      <module name="authentication_api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d233504-6f1c-482a-b62e-29debed06425" name="Default Changelist" comment="" />
+      <created>1565966109233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565966109233</updated>
+      <workItem from="1565966196807" duration="1321000" />
+      <workItem from="1565967610093" duration="1202000" />
+      <workItem from="1566033958304" duration="7313000" />
+      <workItem from="1566130252723" duration="4586000" />
+      <workItem from="1566177694975" duration="9070000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23492000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31527627" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.1716418" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/permissions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/rest_framework/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="121" column="8" selection-start-line="121" selection-start-column="8" selection-end-line="121" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/rest_framework_jwt/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="79" column="32" lean-forward="true" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/rest_framework_jwt/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1625">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="e#642#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/validations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://8729a956-6ca0-4edc-b3e9-ed69d72a3550/schema/main/table/api_account_user_permissions">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://8729a956-6ca0-4edc-b3e9-ed69d72a3550/schema/main/table/auth_group">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://8729a956-6ca0-4edc-b3e9-ed69d72a3550/schema/main/table/api_account_groups">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="121" column="30" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="30" />
+          <folding>
+            <element signature="e#319#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="803">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://8729a956-6ca0-4edc-b3e9-ed69d72a3550/schema/main/table/api_account">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://8729a956-6ca0-4edc-b3e9-ed69d72a3550/schema/main/table/api_profile">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="147" column="58" selection-start-line="147" selection-start-column="58" selection-end-line="147" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
