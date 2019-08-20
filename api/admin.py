@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Account, Profile
+from .models import Account, Profile, BlackList, AccessTokenModel
 # Register your models here.
 
 class AccountAdmin(admin.ModelAdmin):
@@ -8,3 +8,5 @@ class AccountAdmin(admin.ModelAdmin):
 
 admin.site.register(Account, AccountAdmin)
 admin.site.register(Profile)
+admin.site.register(AccessTokenModel)
+admin.site.register(BlackList)

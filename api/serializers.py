@@ -89,7 +89,7 @@ class UpdateProfileSerializer(serializers.Serializer):
         return value
 
     def validate_phone(self, value):
-        if len(value)<=15 and len(value)>=8:
+        if len(value) <= 15 and len(value) >= 8:
             try:
                 phone_int = int(value)
             except:
@@ -99,7 +99,7 @@ class UpdateProfileSerializer(serializers.Serializer):
         return value
 
     def validate_date_of_birth(self, value):
-        if value =='':
+        if value == '':
             return value
         else:
             try:
@@ -110,3 +110,21 @@ class UpdateProfileSerializer(serializers.Serializer):
             return value
 
 
+class RefreshTokenSerializer(serializers.Serializer):
+    token = serializers.CharField(max_length=500)
+
+
+class ChangePasswordSerializer(serializers.Serializer):
+    current_password = serializers.CharField(max_length=32)
+    password = serializers.CharField(max_length=32)
+    confirmed_password = serializers.CharField(max_length=32)
+
+    def validate(self, attrs):
+        if attrs['current_password'] == attrs['password']:
+            raise serializers.ValidationError('Current password cant be reuse')
+        if attrs['password'] != attrs['confirmed_password']:
+            raise serializers.ValidationError('Confirmed password not match')
+        return attrs
+
+class RevokeTokenSerializer(serializers.Serializer):
+    refresh_token = serializers.CharField(max_length=500)

@@ -5,7 +5,6 @@ from django.db import models
 from django.contrib.auth.models import AbstractBaseUser
 from django.contrib.auth.models import PermissionsMixin
 from django.contrib.auth.models import BaseUserManager
-from django.contrib.auth.hashers import make_password
 
 
 # Create your models here.
@@ -49,10 +48,6 @@ class Account(AbstractBaseUser, PermissionsMixin):
     def __str__(self):
         return self.username
 
-    def save(self, *args, **kwargs):
-        self.password = make_password(self.password)
-        super(Account, self).save(*args, **kwargs)
-
 
 class Profile(models.Model):
     id = models.IntegerField(primary_key=True, unique=True, auto_created=True)
@@ -65,3 +60,12 @@ class Profile(models.Model):
 
     def __str__(self):
         return self.uuid
+
+
+class AccessTokenModel(models.Model):
+    user = models.ForeignKey(Account, on_delete=models.CASCADE)
+    value = models.TextField()
+
+
+class BlackList(models.Model):
+    token = models.TextField()

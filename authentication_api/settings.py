@@ -39,6 +39,9 @@ INSTALLED_APPS = [
     'api',
     'rest_framework',
     'rest_framework.authtoken',
+    'refreshtoken',
+    'oauth2_provider',
+    'corsheaders',
 
 ]
 
@@ -148,6 +151,16 @@ JWT_AUTH = {
 
     'JWT_ALLOW_REFRESH': True,
     'JWT_AUTH_HEADER_PREFIX': 'Bearer',
+    'JWT_REFRESH_EXPIRATION_DELTA': datetime.timedelta(days=1),
 }
+AUTHENTICATION_BACKENDS = (
+    "django.contrib.auth.backends.ModelBackend",
+)
 
-AUTHENTICATION_BACKENDS = ['django.contrib.auth.backends.AllowAllUsersModelBackend']
+EMAIL_USE_TLS = True
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'nhatquang.nv14@gmail.com'
+EMAIL_HOST_PASSWORD = 'loveyougirl'
+EMAIL_PORT = 587
+
+SECRET_KEY = 'DuongHao'
