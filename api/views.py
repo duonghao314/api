@@ -12,19 +12,14 @@ from django.http import HttpResponse
 from django.contrib.auth.hashers import make_password
 from django.conf import settings
 
-# from rest_framework import viewsets
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
-# from rest_framework import filters
 from rest_framework.permissions import IsAuthenticated
-# from rest_framework.authentication import TokenAuthentication
-# from rest_framework.authtoken.serializers import AuthTokenSerializer
-# from rest_framework.authtoken.views import ObtainAuthToken
-from rest_framework.decorators import authentication_classes, \
-    permission_classes
-# from rest_framework.generics import CreateAPIView
-# from rest_framework.authtoken.models import Token
+
+from rest_framework.decorators import \
+    (authentication_classes,
+     permission_classes)
 from oauth2_provider.models import AccessToken, RefreshToken
 from oauthlib import common
 
@@ -70,8 +65,7 @@ class AuthView(APIView):
                 to_access_token.value = str(access_token)
                 to_access_token.save()
 
-                expires = datetime.now() + timedelta(
-                    seconds=300000)
+                expires = datetime.now() + timedelta(days=3)
                 refresh_token = AccessToken(
                     user=acc,
                     expires=expires,
@@ -115,6 +109,8 @@ class AuthRefreshView(APIView):
     permission_classes = (IsAuthenticated,)
 
     def post(self, request):
+        if check_blacklist_token(request):
+            return Response(status=status.HTTP_401_UNAUTHORIZED)
         serializer = serializers.RefreshTokenSerializer(data=request.data)
 
         if serializer.is_valid():
@@ -150,19 +146,35 @@ class AuthrevokeView(APIView):
     permission_classes = (IsAuthenticated,)
 
     def post(self, request):
+        if check_blacklist_token(request):
+            return Response(status=status.HTTP_401_UNAUTHORIZED)
         serializer = serializers.RevokeTokenSerializer(data=request.data)
         if serializer.is_valid():
             refresh_token = serializer.data.get('refresh_token')
-            decoded_token = jwt.decode(refresh_token, settings.SECRET_KEY)['token']
+            try:
+                decoded_token = jwt.decode(refresh_token, settings.SECRET_KEY)[
+                    'token']
+            except:
+                return Response(
+                    {"message": "This is not refresh token"},
+                    status=status.HTTP_400_BAD_REQUEST)
             print(decoded_token)
             try:
-                to_delete_token = AccessToken.objects.get(token=str(decoded_token))
+                to_delete_token = AccessToken.objects.get(
+                    token=str(decoded_token))
+                if to_delete_token.user != str(request.user.username):
+                    return Response({
+                        "message": "Access token and refresh token do not "
+                                   "match"},
+                        status=status.HTTP_400_BAD_REQUEST)
+                print(to_delete_token.user)
                 to_delete_token.delete()
             except:
-                return Response({'message':'Refresh token was not found'})
+                return Response({'message': 'Refresh token was not found'})
         else:
             return Response(status=status.HTTP_400_BAD_REQUEST)
-        return Response(status= status.HTTP_200_OK)
+        return Response(status=status.HTTP_200_OK)
+
 
 class AuthVerifyView(APIView):
     serializer_class = serializers.AuthSerializer
@@ -202,12 +214,20 @@ class AuthMEView(APIView):
         if check_blacklist_token(request):
             return Response(status=status.HTTP_401_UNAUTHORIZED)
         acc = Account.objects.get(username=request.user.username)
+        prof = ''
+        print(acc.uuid)
+        try:
+            prof = Profile.objects.get(uuid=acc.uuid).to_dic()
+
+        except:
+            prof = 'null'
+        print(prof)
         user_infor = {
             'id': str(acc.uuid),
             'username': acc.username,
             'email': acc.email,
             'timezone': acc.timezone,
-            'profile': 'null'
+            'profile': prof
         }
         return Response(user_infor, content_type='application/json')
 
@@ -293,7 +313,7 @@ class ChangePasswordView(APIView):
                 except:
                     pass
 
-            return Response({'password': password})
+            return Response(status=status.HTTP_200_OK)
         else:
             return Response(serializer.errors)
 

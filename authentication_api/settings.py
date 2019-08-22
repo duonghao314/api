@@ -109,7 +109,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Ho_Chi_Minh'
 
 USE_I18N = True
 
@@ -163,4 +163,4 @@ EMAIL_HOST_USER = 'nhatquang.nv14@gmail.com'
 EMAIL_HOST_PASSWORD = 'loveyougirl'
 EMAIL_PORT = 587
 
-SECRET_KEY = 'DuongHao'
+

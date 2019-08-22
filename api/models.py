@@ -61,6 +61,16 @@ class Profile(models.Model):
     def __str__(self):
         return self.uuid
 
+    def to_dic(self):
+        dict = {
+            'fullname':self.fullname,
+            'date_of_birth': self.date_of_birth,
+            'address': self.address,
+            'country': self.country,
+            'phone':self.phone
+        }
+        return dict
+
 
 class AccessTokenModel(models.Model):
     user = models.ForeignKey(Account, on_delete=models.CASCADE)

@@ -9,11 +9,8 @@ def check_blacklist_token(request):
 
     if token.startswith('Bearer '):
         token = token.replace('Bearer ', '')
-        print(token)
-        for tk in BlackList.objects.all():
-            print(type(tk.token))
-            print(tk.token)
+
         if token in [bl_token.token for bl_token in BlackList.objects.all()]:
-            print(1)
+
             return True
     return False
