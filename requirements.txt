@@ -6,7 +6,7 @@ cryptography==2.7
 Django==2.2.4
 django-cors-middleware==1.4.0
 django-oauth-toolkit==1.2.0
-djangorestframework==3.10.2
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 djangorestframework-jwt-refresh-token==0.5
 djangorestframework-simplejwt==4.3.0
